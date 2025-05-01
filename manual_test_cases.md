@@ -1,0 +1,3 @@
+| TC_01 | Login with valid credentials | 1. Open login page<br>2. Enter valid username<br>3. Enter valid password<br>4. Click login | User is redirected to the dashboard page |
+| TC_02 | Login with invalid credentials | 1. Open login page<br>2. Enter invalid username/password<br>3. Click login | Error message: "Wrong username/password" |
+| TC_03 | Verify 'Forgot Password' functionality | 1. Open login page<br>2. Click "Forgot Password"<br>3. Enter registered email address<br>4. Submit | Message: "Check your email for password reset" |
